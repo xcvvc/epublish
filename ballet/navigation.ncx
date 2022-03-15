@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+"http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns-"http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+
+<head>
+<meta name="dtb:uid" content="bookid"/>
+<meta name="dtb:depth" content="1"/>
+<meta name="dtb:totalPageCount" content="0"/>
+<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+
+<docTitle><text>Ballet with Mother</text></docTitle>
+<docAuthor><text>Kop'ye Zoloto</text></docAuthor>
+
+<nav epub:type="landmarks" class="hidden-tag" hidden="hidden">
+
+<ol class="none" pub:type="list">
+<li><a epub:type="toc" href="toc.html">Table of Contents</a></li>
+</ol>
+
+</nav>
+
+</ncx>
